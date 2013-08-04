@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reddit Search and Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="network_error_title">Connetion Error!</string>
+    <string name="network_error_body">Cannot connect to Reddit, check your connection.</string>
+
+</resources>
